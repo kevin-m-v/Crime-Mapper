@@ -6,7 +6,7 @@ This project aimed to analyze the risk of violent crime in different regions of 
 
 ![alt text](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Decision%20Tree.png)
 
-The Google Maps API was instrumental in the classification step. The raw crime data provides street addresses that could not be mapped to a grid. However, latitude and longitude coordinates, obtained by sending the street address through the Google Maps API, were quantifiable metrics that allowed me to attribute crimes to individual grid squares.
+The Google Maps API was instrumental in the classification step. The raw crime data provides street addresses that could not be mapped to a grid. However, latitude and longitude coordinates, obtained by sending the street address through the Google Maps API, were quantifiable metrics that allowed me to attribute crimes to individual grid squares. 3 colors classified grid zones based on the risk of future crimes: Blue(Low Risk), Green(Moderate Risk), and Red(High Risk).
 
 ![alt text](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Crime%20Hotspot%20Map.png)
 
