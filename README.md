@@ -8,6 +8,6 @@ This project aimed to analyze the risk of violent crime in different regions of 
 
 The Google Maps API was instrumental in the classification step. The raw crime data provides street addresses that could not be mapped to a grid. However, latitude and longitude coordinates, obtained by sending the street address through the Google Maps API, were quantifiable metrics that allowed me to attribute crimes to individual grid squares.
 
-![alt text](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Decision%20Tree.png](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Crime%20Hotspot%20Map.png)
+![alt text](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Decision%20Tree.png](https://github.com/kevin-m-v/Crime-Mapper/blob/main/Crime%20Hotspot%20Map.png )
 
 The Crime Mapper can be an invaluable asset to visitors, locals, and law enforcement by clearly identifying high-risk areas in Miami and offering insights into the association between crime and socio-economic conditions.
